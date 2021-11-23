@@ -1,0 +1,1 @@
+Meu peimeiro projeto enviao ao github via terminal
